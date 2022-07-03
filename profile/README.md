@@ -13,6 +13,7 @@
 
 # ek-tour-client
 ## 기술스택
+```react```, ```Material UI```
 
 ## 기능
 
