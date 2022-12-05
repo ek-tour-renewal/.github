@@ -13,7 +13,7 @@ SPA를 활용하여 사용자 편의성을 더욱 증진시키고, 관리자 편
 
 # 기술 스택
 ### Front-end
-```Javascript```, ```React```, ```Material UI```, ```Axios``` 
+```Javascript```, ```React```, ```Material UI```, ```Post CSS```, ```Axios``` 
 
 ### Back-end
 ```Spring boot (Java 11)```, ```Thymeleaf```, ```Spring Data JPA```, ```MySQL```, ```AWS RDS```, ```AWS EC2```
